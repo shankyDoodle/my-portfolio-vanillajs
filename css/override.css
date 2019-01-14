@@ -1,0 +1,11 @@
+#shanky-span-mailto{
+    display: block !important;
+    font-family: "poppins-regular", sans-serif !important;;
+    color: #888888 !important;;
+    font-size: 1.5rem !important;;
+    line-height: 1 !important;;
+}
+
+#shanky-span-mailto:hover{
+    color: #FF0077 !important;;
+}
