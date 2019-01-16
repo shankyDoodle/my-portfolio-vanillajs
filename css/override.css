@@ -7,5 +7,30 @@
 }
 
 #shanky-span-mailto:hover{
+    color: #FF0077 !important;
+}
+
+#emailMeBottomLink{
+    color: #6e6e6e !important;
+}
+
+#emailMeBottomLink:hover{
     color: #FF0077 !important;;
+}
+
+.statCountPrefix{
+    color: #FFFFFF;
+    font-size: 3.6rem;
+    margin-top: 1.2rem;
+    margin-bottom: 0;
+    font-family: "poppins-medium", sans-serif;
+    float: left;
+}
+
+.statCountPrefix.infinite{
+    float: initial;
+}
+
+.myOwlCarousal{
+    width: 48% !important;
 }
