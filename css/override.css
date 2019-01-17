@@ -15,7 +15,7 @@
 }
 
 #emailMeBottomLink:hover{
-    color: #FF0077 !important;;
+    color: #FF0077 !important;
 }
 
 .statCountPrefix{
@@ -31,6 +31,16 @@
     float: initial;
 }
 
-.myOwlCarousal{
-    width: 48% !important;
+.services-content{
+    position: relative !important;
+}
+
+.currButton{
+    color: rgba(255, 255, 255, 0.6) !important;
+    border-color: rgba(255, 255, 255, 0.6) !important;
+}
+
+.currButton:hover{
+    color: #FF0077 !important;
+    border-color: #FF0077 !important;
 }
