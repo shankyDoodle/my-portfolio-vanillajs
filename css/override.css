@@ -1,4 +1,4 @@
-#shanky-span-mailto{
+#shanky-span-mailto {
     display: block !important;
     font-family: "poppins-regular", sans-serif !important;;
     color: #888888 !important;;
@@ -6,19 +6,19 @@
     line-height: 1 !important;;
 }
 
-#shanky-span-mailto:hover{
+#shanky-span-mailto:hover {
     color: #FF0077 !important;
 }
 
-#emailMeBottomLink{
+#emailMeBottomLink {
     color: #6e6e6e !important;
 }
 
-#emailMeBottomLink:hover{
+#emailMeBottomLink:hover {
     color: #FF0077 !important;
 }
 
-.statCountPrefix{
+.statCountPrefix {
     color: #FFFFFF;
     font-size: 3.6rem;
     margin-top: 1.2rem;
@@ -27,20 +27,20 @@
     float: left;
 }
 
-.statCountPrefix.infinite{
+.statCountPrefix.infinite {
     float: initial;
 }
 
-.services-content{
+.services-content {
     position: relative !important;
 }
 
-.currButton{
+.currButton {
     color: rgba(255, 255, 255, 0.6) !important;
     border-color: rgba(255, 255, 255, 0.6) !important;
 }
 
-.currButton:hover{
+.currButton:hover {
     color: #FF0077 !important;
     border-color: #FF0077 !important;
 }
