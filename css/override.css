@@ -48,3 +48,18 @@
 .copyrightOver{
     font-size: 0.6em !important;
 }
+
+.menuIconRowOver{
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+.top-bar-Overriden{
+    left: 0 !important;
+    min-width: 180px !important;
+    background: transparent !important;
+}
+
+.customIsClicked{
+    background: #000000 !important;
+}
